@@ -1,0 +1,30 @@
+{
+  "name": "hcl_project",
+  "version": "1.0.0",
+  "description": "HCL Tech project repo for webdev profile demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishmaPratimDasHere/HCL_Project.git"
+  },
+  "keywords": [
+    "MERN",
+    "Web",
+    "development"
+  ],
+  "author": "Vishma Pratim Das (vishmapdas@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishmaPratimDasHere/HCL_Project/issues"
+  },
+  "homepage": "https://github.com/VishmaPratimDasHere/HCL_Project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
